@@ -1,4 +1,4 @@
-# 💰 AI Money Mentor  
+#  AI Money Mentor  
 ### 🚀 Your AI-Powered Financial Companion
 
 ![Banner](https://via.placeholder.com/1000x300.png?text=AI+Money+Mentor+Dashboard)
@@ -93,12 +93,5 @@ Feel free to fork this project and improve it!
 ## ⭐ Support  
 
 If you like this project, give it a ⭐ on GitHub!
-
----
-
-## 👩‍💻 Author  
-
-**Nandhini Bharani**  
-📌 Engineering Student | AI Enthusiast  
 
 ---
