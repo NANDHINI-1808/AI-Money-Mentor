@@ -65,7 +65,7 @@ The system takes user financial data and provides:
 
 ## 🌍 Live Demo  
 
-👉 https://yourusername.github.io/AI-Money-Mentor/
+👉 file:///C:/Users/bhara/AI%20Project%20website.html
 
 ---
 
