@@ -1,7 +1,6 @@
-#  AI Money Mentor  
-### 🚀 Your AI-Powered Financial Companion
+AI Money Mentor  
+🚀 Your AI-Powered Financial Companion
 
-![Banner](https://via.placeholder.com/1000x300.png?text=AI+Money+Mentor+Dashboard)
 
 ---
 
